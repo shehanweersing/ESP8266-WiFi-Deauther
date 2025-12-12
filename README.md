@@ -54,6 +54,10 @@ The easiest method is using the web installer:
 5.  **Select** your own test network.
 6.  Go to the **Attack** tab and start the "Deauth" attack.
 
+   ##images
+   <img width="1264" height="1072" alt="Screenshot 2025-12-12 115419" src="https://github.com/user-attachments/assets/a999de02-861b-48c6-a5fb-abfc7104c0d7" />
+
+
 ## 🛡️ How to Protect Yourself
 The only way to stop this attack is to use the **802.11w** standard (Protected Management Frames).
 * Most modern routers have this feature, but it is often disabled by default to support older devices.
