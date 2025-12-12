@@ -56,6 +56,10 @@ The easiest method is using the web installer:
 
    ##images
    <img width="1264" height="1072" alt="Screenshot 2025-12-12 115419" src="https://github.com/user-attachments/assets/a999de02-861b-48c6-a5fb-abfc7104c0d7" />
+   
+<img width="1246" height="1115" alt="Screenshot 2025-12-12 115735" src="https://github.com/user-attachments/assets/dc8766a9-ac8d-419b-ab31-bc0a269d68f7" />
+
+<img width="1222" height="1092" alt="Screenshot 2025-12-12 121031" src="https://github.com/user-attachments/assets/5f09cadd-a329-462f-aec6-4cf1aac5eca8" />
 
 
 ## 🛡️ How to Protect Yourself
