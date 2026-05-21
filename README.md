@@ -87,7 +87,22 @@ The easiest method is using the web installer:
 The only way to stop this attack is to use the **802.11w** standard (Protected Management Frames).
 * Most modern routers have this feature, but it is often disabled by default to support older devices.
 * If 802.11w is enabled, the device will ignore the fake disconnect packets because they are not properly signed by the router.
+  
+## ❓ FAQ & Troubleshooting (Collapsible)
+<details>
+<summary>Why does the ESP8266 keep resetting?</summary>
+Ensure you have a stable 3.3 V supply and that the **CH340/CP2102** driver is correctly installed. Try a different USB cable.
+</details>
+<details>
+<summary>My computer does not see a COM port.</summary>
+Install the appropriate driver for your USB‑to‑UART chip (CP2102 for square chips, CH340 for rectangular chips). Re‑plug the board after driver installation.
+</details>
+<details>
+<summary>Can I target WPA‑protected networks?</summary>
+The deauth attack works on any network that uses **unencrypted management frames** (most WPA/WPA2). Enabling **802.11w (PMF)** on the router mitigates this.
+</details>
 
+---
 ## 👏 Credits
 * **Firmware Creator:** [SpacehuhnTech](https://github.com/SpacehuhnTech)
 * **Project Documentation:** [Your Name/GitHub Handle]
