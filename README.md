@@ -36,12 +36,21 @@ This tool demonstrates a flaw in the older 802.11 WiFi standard where these "man
 * **Cable:** Micro-USB Data Cable
 * **Computer:** Windows PC (for flashing)
 
-## ⚡ How It Works
-The attack works by exploiting the lack of encryption in management frames on older WiFi networks.
-1.  **Scan:** The ESP8266 listens for WiFi access points and connected clients.
-2.  **Spoof:** It mimics the MAC address of the target router.
-3.  **Attack:** It sends a "Deauthentication Frame" to the target device (client).
-4.  **Result:** The client believes the router sent the request and disconnects immediately.
+## ⚡ How It Works (Protocol Diagram)
+```mermaid
+sequenceDiagram
+    participant Victim as Client Device
+    participant ESP as ESP8266 (Attacker)
+    participant Router as Access Point
+    
+    Victim->>Router: Legitimate Connection
+    ESP->>Victim: Spoofed Deauth Frame (MAC: Router)
+    Note over Victim: Client thinks Router sent the request
+    Victim->>Router: Disconnects immediately
+```
+*The ESP8266 monitors Wi‑Fi traffic, imitates the router’s MAC address, and injects a deauthentication frame.*
+
+---
 
 ## 📥 Installation Guide
 To replicate this project, follow these steps:
