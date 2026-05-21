@@ -33,6 +33,8 @@ This tool demonstrates a flaw in the older 802.11 WiFi standard where these "man
 
 ## 🛠️ Hardware Used
 * **Microcontroller:** NodeMCU (ESP8266) / Wemos D1 Mini
+ <img width="640" height="327" alt="adafruit_products_pinoutstop" src="https://github.com/user-attachments/assets/80d6cccf-8233-4369-ba09-88b1e5d0247e" />
+
 * **Cable:** Micro-USB Data Cable
 * **Computer:** Windows PC (for flashing)
 
