@@ -1,27 +1,5 @@
 <div align="center">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>ESP8266 WiFi Deauther</title>
-  <style>
-    @keyframes borderPulse {
-      0%   { border-color:#ff6b6b; }
-      50%  { border-color:#ffda79; }
-      100% { border-color:#ff6b6b; }
-    }
-    .animated-border {
-      border:4px solid #ff6b6b;
-      border-radius:12px;
-      padding:1.5rem;
-      animation:borderPulse 3s ease-in-out infinite;
-      background:#0d1117;
-      color:#e2e8f0;
-    }
-  </style>
-</head>
-<body>
-  <div class="animated-border">
+
 
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=33CA7F&center=true&vCenter=true&width=600&lines=ESP8266+WiFi+Deauther;Understand+WiFi+Security;Test+Your+Own+Networks" alt="Typing SVG" />
@@ -140,9 +118,7 @@ The deauth attack works on any network that uses **unencrypted management frames
 
 * **Project Documentation:** SHEHAN N WEERASINGHE [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
 
-  </div>
-</body>
-</html>
+
 
 
 ---
