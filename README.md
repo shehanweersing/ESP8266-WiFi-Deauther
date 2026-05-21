@@ -104,7 +104,7 @@ The deauth attack works on any network that uses **unencrypted management frames
 
 ---
 
-* **Project Documentation:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
+* **Project Documentation:** SHEHAN N WEERASINGHE [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
 
 
 ---
