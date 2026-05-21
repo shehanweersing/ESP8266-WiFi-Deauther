@@ -1,8 +1,20 @@
-# ESP8266-WiFi-Deauther
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=33CA7F&center=true&vCenter=true&width=600&lines=ESP8266+WiFi+Deauther;Understand+WiFi+Security;Test+Your+Own+Networks" alt="Typing SVG" />
 
-# 📡 ESP8266 WiFi Deauther Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Hardware](https://img.shields.io/badge/Hardware-ESP8266-blue.svg)](https://en.wikipedia.org/wiki/ESP8266)
+[![Firmware](https://img.shields.io/badge/Firmware-SpacehuhnTech-brightgreen.svg)](https://github.com/SpacehuhnTech/esp8266_deauther)
+[![Educational Purposes](https://img.shields.io/badge/Purpose-Educational-red.svg)]()
 
 **An educational project to understand WiFi security and the 802.11 deauthentication vulnerability.**
+
+</div>
+
+
+
+
+
 
 ## ⚠️ Disclaimer
 **This project is intended for educational purposes and testing on your OWN networks only.**
