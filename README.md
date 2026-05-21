@@ -67,6 +67,14 @@ The easiest method is using the web installer:
 3.  Click **Connect** and select the correct COM port.
 4.  Click **Install Deauther**.
 
+## 📊 Attack Reference Matrix
+| Attack Type | Target | Stealth | Typical Use‑Case |
+|------------|--------|---------|-----------------|
+| **Deauth** | Client ↔ AP | Medium (unencrypted Mgmt frames) | Quick disconnect for demo / testing |
+| **Beacon Flood** | AP | Low (visible SSIDs) | Create fake networks to fill scan lists |
+| **Probe Request Spam** | AP | Low | Overload AP with probe requests |
+
+---
 ## 🎮 How to Use
 1.  Power up the ESP8266.
 2.  Connect your phone/PC to the WiFi network named **`pwned`** (Password: `deauther`).
