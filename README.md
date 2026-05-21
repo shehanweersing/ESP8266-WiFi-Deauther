@@ -103,9 +103,9 @@ The deauth attack works on any network that uses **unencrypted management frames
 </details>
 
 ---
-## 👏 Credits
-* **Firmware Creator:** [SpacehuhnTech](https://github.com/SpacehuhnTech)
-* **Project Documentation:** [Your Name/GitHub Handle]
+
+* **Project Documentation:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
+
 
 ---
 *Created for educational exploration of cybersecurity concepts.*
